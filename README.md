@@ -1,0 +1,2 @@
+# commonClaudeRepository
+claudeのためのフォルダである
